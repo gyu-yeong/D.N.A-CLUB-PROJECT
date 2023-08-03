@@ -1,4 +1,4 @@
-# D.N.A-CLUB-PROJECT (D.N.A 데이터 분석 동아리 프로젝트)
+# D.N.A-CLUB-PROJECT
 ### Records of activities in the university's data analysis club, D.N.A (2021 ~ 2023)
 
 #### 1. 2022 기업트렌드 시각화 경진대회
