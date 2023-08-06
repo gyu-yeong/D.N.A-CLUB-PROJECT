@@ -14,5 +14,6 @@
 - 기간: 2023.08 ~ 2023.09
 - 주최: 행정안전
 - 비고: 경상남도 공공데이터 활용 아이디어 공모전 최우수상 수상에 따른 출전
-  
+
+![KakaoTalk_20230805_175003819](https://github.com/gyu-yeong/PROJECT/assets/139207337/f3b3629a-a3c8-4095-9456-83282caf189a)
 ![KakaoTalk_20230805_181027502](https://github.com/gyu-yeong/PROJECT/assets/139207337/678b0747-c400-41e6-bd7c-f8601492ec32)
